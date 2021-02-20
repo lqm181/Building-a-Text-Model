@@ -1,0 +1,40 @@
+SAN FRANCISCO — Facebook is facing the glare of regulators for buying up promising start-ups and neutralizing them as a competitive threat. But that hasn’t stopped the social network from shelling out for more companies.
+
+Facebook announced on Monday that it planned to acquire Kustomer, a customer relationship management start-up, to help it build its e-commerce business. The deal values Kustomer at close to $1 billion, said two people with knowledge of the talks. Kustomer, which is based in New York, had raised roughly $170 million in venture funding, according to data compiled by Crunchbase.
+
+The deal, which is subject to regulatory approval, could provide businesses and customers more support for interactions that occur on Facebook and its other apps, such as WhatsApp, Instagram and Facebook Messenger. More than 175 million people contact businesses using WhatsApp, Facebook said.
+
+“Messaging provides a better overall customer experience and drives sales for businesses,” Dan Levy and Matt Idema, executives at Facebook and WhatsApp, said in a company blog post.
+
+ADVERTISEMENT
+
+Continue reading the main story
+
+Facebook announced the deal even as the Federal Trade Commission and dozens of states prepare antitrust lawsuits against the company for maintaining its power through past mergers of nascent competitors. The F.T.C. and state attorneys general are expected to announce plans for legal action against the social network within days, several people briefed on the cases have said.
+
+The cases are likely to focus on how Facebook came to dominate social media through its $1 billion acquisition of Instagram in 2012 and its $18 billion purchase of WhatsApp in 2014, they said. The companies were not directly competing with Facebook but have since become highly popular apps with billions of users. A Kustomer deal, which would follow a $400 million acquisition of the animated GIF maker Giphy this year, could heighten regulatory scrutiny of Facebook.
+
+A Facebook spokesman said plenty of competition remained in technology, especially as Kustomer is not a social networking app and is adjacent to Facebook’s main business.
+
+
+“This deal is about providing more choices and better products for consumers,” the spokesman said in a statement. “The key to Facebook’s success has always been innovation, with M&A being just a part of our overall business strategy, and we will continue to demonstrate to regulators that competition in the technology sector is vibrant.”
+
+Founded in 2015, Kustomer built a business by simplifying the back-end software used by many Fortune 500 companies to serve customers. The start-up has presented itself as an alternative to other customer service software companies like Zendesk and Oracle. Kustomer’s investors include Battery Ventures, Canaan Partners and Redpoint Ventures.
+
+ADVERTISEMENT
+
+Continue reading the main story
+
+Facebook said Kustomer’s software could help support millions of business conversations, making it easier for customer support representatives to view and service the interactions.
+
+In particular, Facebook’s WhatsApp messaging app, which has more than one billion users, has expanded to business messaging services. In recent months, WhatsApp built a special app for businesses as customers in Latin America, Southeast Asia and elsewhere increasingly conduct transactions through messaging apps. In India, where more people are buying smartphones and using WhatsApp, the messaging app sees an opportunity to expand its digital commerce offerings.
+
+“People have made the shift to messaging, with more than 100 billion messages sent per day on WhatsApp,” Mr. Idema, who is chief operating officer of the company, said in an interview. “And they’re starting to use modern channels like messaging to talk to businesses. It’s a better experience than waiting on hold, than not knowing if your email has been read.”
+
+The demand for managing digital relationships with customers has also grown because of the coronavirus pandemic. Millions of people, having gone into quarantine or sheltering at home, have migrated to buying goods and communicating with businesses virtually rather than in person. That has led to a boom in deals for the makers of customer relationship software and workplace collaboration tools.
+
+“It was going to happen naturally. It’s just been accelerated by Covid,” said Brad Birnbaum, a founder of Kustomer. “Instead of investing in expensive storefronts and retail locations, companies are investing more in digital tools and experiences.”
+
+Salesforce, another company that sells customer service software, for instance, has been in talks to acquire Slack, the workplace productivity software provider, said two people with knowledge of the situation. A deal could be announced as soon as Tuesday, they said.
+
+If that deal is completed, Slack will be Salesforce’s largest acquisition and among the biggest in the software industry. Slack was valued at more than $24 billion on Monday. Last year Salesforce acquired Tableau, a data analytics provider, for nearly $16 billion.

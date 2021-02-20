@@ -1,0 +1,34 @@
+A prominent artificial-intelligence researcher says she was fired by Google after she refused to retract a research paper and complained about the company in an email to colleagues.
+
+Computer scientist Timnit Gebru, the co-head of Google’s Ethical Artificial Intelligence team, says her departure appears to have been precipitated by her email, sent last week to a wide group inside the search giant and reviewed by The Wall Street Journal. The email opened with “Hi friends,” and went on to criticize her superiors. Google executives squelched her research, she wrote, and ignored her feedback on issues like the proportion of female employees in the company.
+
+Google Head of AI Jeff Dean, in an internal email, told staff that an internal team determined that Ms. Gebru’s most recent AI research was insufficiently rigorous. He also said she encouraged colleagues not to participate in Google’s diversity, equity and inclusion programs, and that he was disappointed about that.
+
+Writing about how Google’s actions made her feel, Ms. Gebru wrote: “you are not someone whose humanity…is acknowledged or valued in this company.” Ms. Gebru, who is Black, often spoke publicly about what she called the failings of the technology industry on equality and diversity issues.
+
+By this Wednesday, she says she was fired. “I was fired by @JeffDean for my email,” she wrote in a Twitter post that tagged Mr. Dean.
+
+In her tweets, Ms. Gebru said the company sought to characterize her departure as a resignation. Mr. Dean said that Ms. Gebru threatened to resign if he wouldn’t reveal who at Google had reviewed her work. Ms. Gebru, 37 years old, didn’t respond to requests for comment.
+
+From the Archives
+All Eyes on You: The Latest Tricks of AI Cameras at CES
+YOU MAY ALSO LIKE
+
+UP NEXT
+
+All Eyes on You: The Latest Tricks of AI Cameras at CES
+Two new smart systems use cameras, artificial intelligence and an assortment of sensors to keep watch over you—Patscan looks for threats in public spaces, while Eyeris monitors the driver and passengers in a car. WSJ’s Katherine Bindley visits CES to explores their advantages, as well as their privacy costs.
+Ms. Gebru held skeptical views on artificial intelligence that were unusual inside Google, according to people who know her. She was an outspoken critic of tools used by law enforcement to predict and prevent crimes, having said she found that they discriminated against darker-skinned people. For example, she published widely disseminated research showing that facial recognition algorithms are more likely to misidentify people of color.
+
+Ms. Gebru wrote in her email, earlier reported by technology publication Platformer, that Google told her not to publish new research and didn’t provide a satisfying explanation as to why. The research concerned AI, those people say. AI is a top priority of Google Chief Executive Sundar Pichai, who frequently cites it as key to the company’s future.
+
+Google, whose parent Alphabet Inc. employs more than 132,000 full-time workers, has struggled with its fractious workforce in recent years. The company, which long tolerated spirited debate among colleagues, has more recently made rules intended to curb political conversations. Google has also added corporate moderators to many of its internal affinity groups, which it says is designed to reduce strife.
+
+Our weekday newsletter provides insight into business opportunities and challenges companies face when implementing machine learning, deep learning and other advanced technologies.
+
+
+The National Labor Relations Board has alleged that Google illegally fired two employees last year and took steps to restrict employee efforts to organize, according to a federal complaint filed Wednesday. The two Google workers had posted “workplace concerns” on a company message board and “engaged in concerted activities” with other employees in October 2019, the complaint says. They were later fired.
+
+Google’s decision to terminate them and other actions the company took, such as prohibiting employees from creating calendar events with more than 100 employees, were examples of “interfering with, restraining, and coercing employees,” according to the complaint. Google maintains that the firings were due to violations of security policies.
+
+Ms. Gebru also said in her email that she hired attorneys last year who threatened legal action against Google. In the email, Ms. Gebru wrote that she received an “impact award” from Google the day after her lawyers contacted the company. “Pure gaslighting,” she wrote.
